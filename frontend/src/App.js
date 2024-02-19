@@ -26,7 +26,7 @@ import BreakEvenPointCalculator from './pages/BreakEvenPointCalculator/BreakEven
 import MarkupCalculator from './pages/MarkupCalculator/MarkupCalculator';
 import { setCurrency } from './features/currency/currencySlice';
 
-import {Helmet} from "react-helmet";
+
 
 function App() {
 	const { user, message } = useSelector((state) => state.auth);
@@ -88,11 +88,7 @@ function App() {
 		<>
 
 <div className="application">
-            <Helmet>
-                <meta charSet="utf-8" />
-                <title>Finance Forge</title>
-                {/* <link rel="canonical" href="http://mysite.com/example" /> */}
-            </Helmet>
+          
             
         </div>
 		
