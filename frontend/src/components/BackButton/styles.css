@@ -1,0 +1,30 @@
+.back-button {
+	display: flex;
+	align-items: center;
+	/* Maintain the same width as the calculator */
+	width: min(calc(90% + 4rem), 650px);
+	margin-bottom: 0.25rem;
+	transition: var(--fast-transition);
+}
+
+.back-button a:hover {
+	color: var(--clr-primary);
+}
+
+.back-button a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	padding: 0.25rem;
+	color: var(--clr-text-secondary);
+	user-select: none;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 680px) {
+	.back-button {
+		width: 100%;
+	}
+}
+/* End Media Queries */
