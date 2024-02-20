@@ -35,7 +35,10 @@ FinanceForge is created using the the MERN stack.
 ### [Compound Interest Calculator]
 ---
 Calculates the compound interest of your investments and can show you how long your investments will last. The calculated interest data can be viewed in both numerical and visual form.
-![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/ddb0a1c2-c71a-47da-9389-0b9d45e034f1)
+
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/55325680-b60e-4d3b-8935-93e4abde5cd0)
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/375308b9-6545-4151-bf8f-db2ea7b2c110)
+
 ---
 ### [Markup Calculator]
 ---
@@ -45,9 +48,10 @@ Calculates the difference between the cost and the selling price of your product
 
 ---
 ### [Annualized Return Calculator]
----
+
 Calculates the annualized return (CAGR) and the the total percent return of your investment.
-![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/faf5aecd-88bc-4d4d-9f6d-245910b11007)
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/38edc332-013a-423c-afd2-ba7fa12e29cb)
+
 ---
 ### [Pesent Value Calculator]
 ---
